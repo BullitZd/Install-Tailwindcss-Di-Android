@@ -1,7 +1,7 @@
 # Install TailwindCSS di Android
 
 ## Bahan
-> 1. [Termux](https://moneyblink.com/xplljU7Mx7)
+> - [Termux](https://moneyblink.com/xplljU7Mx7)
 > - [Acode Editor]()
 > - [Chrome]()
 > - [ZArchiver]()
@@ -28,4 +28,3 @@
    pkg install git
 ```
 ## 
-
