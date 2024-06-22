@@ -30,6 +30,7 @@
 
 ## Buat Struktur Direktori Proyek
 Contoh:
+```bash
 -myProjec/
   -public/
     -index.html
@@ -43,13 +44,14 @@ Contoh:
     -css/
       -input.css
     -app.js
+```
 
 ## Buat Server/Router NodeJs
--install dependensi yang di butuhkan (Express) 
+- install dependensi yang di butuhkan (Express) 
 ```bash
    npm install express body-parser --no-bin-links
 ```
--isi file src/app.js dengan kode berikut:
+- isi file src/app.js dengan kode berikut:
 ```bash 
    const express = require('express');
    const bodyParser = require('body-parser');
