@@ -2,9 +2,9 @@
 
 ## Bahan
 > 1. [Termux](https://moneyblink.com/xplljU7Mx7)
-> 2. [Acode Editor]()
-> 3. [Chrome]()
-> 4. [ZArchiver]()
+> - [Acode Editor]()
+> - [Chrome]()
+> - [ZArchiver]()
 
 ## Buka Aplikasi Termux
 - update & upgrade paket
