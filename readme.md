@@ -9,18 +9,8 @@
 ## Buka Aplikasi Termux
 ```bash 
    pkg update && pkg upgrade
-```
-```bash 
    pkg install nodejs
-```
-```bash
    node -v
-```
-```bash
    npm -v
-```
-```bash
    pkg install git
 ```
-## 
-
