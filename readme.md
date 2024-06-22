@@ -10,9 +10,8 @@
 ```bash 
    pkg update && pkg upgrade
 ```
+Install NodeJs
 ```bash 
-Install nodeJs
-
    pkg install nodejs
 ```
 ```bash
